@@ -5,7 +5,7 @@
 
 ![License-MIT](https://img.shields.io/badge/License-MIT-blue.png)
 ![Code-Size](http://img.shields.io/badge/code--size-5.44KB-blue.png)
-
+![Code-Size](https://img.shields.io/badge/Luke-v0.01-brightgreen.png)
 
 Luke 中文译为《光之使者》，近期在最终幻想14网络游戏中，想到光之战士这个蛮酷的词。抱歉，话题跑偏了，Luke是CSS打造轻量级框架，能够快速完成布局应用。不仅仅是栅格化布局，今后增加优秀的组件和好玩的东西，希望你会喜欢。  
 
